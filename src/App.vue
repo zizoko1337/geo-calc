@@ -1,15 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<!-- eslint-disable -->
+  <!-- <NavigationBar></NavigationBar> -->
+  <router-view></router-view>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import NavigationBar from './components/elements/NavigationBar.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    // NavigationBar
   }
 }
 </script>
@@ -17,10 +18,12 @@ export default {
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
+ body{
+  background: url('https://images7.alphacoders.com/543/543704.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
 </style>
