@@ -1,24 +1,5 @@
-# geo-calc
+# Geo Calculator
 
-## Project setup
-```
-npm install
-```
+A recruitment task that I undertook.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+link to app: https://zizoko1337.github.io/geo-calc/
