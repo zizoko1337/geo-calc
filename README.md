@@ -22,7 +22,7 @@ Vue router
 Bootstrap 5
 </li>
 <li>
-gps-distance https://www.npmjs.com/package/gps-distance (work smarter, not harder 😉)
+gps-distance https://www.npmjs.com/package/gps-distance
 </li>
 <li>
 Vue CLI
